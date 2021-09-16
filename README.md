@@ -1,1 +1,1 @@
-Run the test case in Selenium integrated Eclipse IDE.
+Run the test case in TestNG integrated Eclipse IDE.
